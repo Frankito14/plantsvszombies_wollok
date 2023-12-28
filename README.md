@@ -1,14 +1,12 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/hUnPAC5R)
 # Plantas Vs Zombies
 
 ## Equipo de desarrollo
 
-- Micaela Plata
-- Vanina Cejas
+- Franco Orellana
+- Ignacio Rzeszut
+- Pablo Israelsky
 - Martina Falco
-- Alan García
-- Dylan Correa
-- Javier Asato
+
   
 ## Capturas
 
@@ -27,13 +25,12 @@
 ## Game Over
 ![over](screenshots/Captura3.PNG)
 ## Reglas de Juego / Instrucciones
-Cómo no conocés el plantas vs zombies wachín??
-Tenés que plantar plantitas para defender tu casa de las oleadas de zombies
+Defender tu casa de los zombies usando las plantas para frenar su avance
 
 ## Controles
 - Comenzar partida: Enter
+- Plantar: Espacio
+- Mover seleccionador de plantas: [Q][E]
 - Mover Cabezal: Flechas direccionales
 
-## Otros
-- Comisión C-2
-- Una vez terminado, no tenemos problemas en que el repositorio sea público
+
