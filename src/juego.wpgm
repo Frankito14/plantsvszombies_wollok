@@ -1,0 +1,15 @@
+import wollok.game.*
+import configuracion.*
+import administradorDeNivel.*
+import zombies.*
+
+
+program PlantasVsZombies {
+	
+	configuracion.configurarResolucionPantalla()
+	configuracion.agregarTitulo()
+	administradorDeNivel.configurarInputs()
+	administradorDeNivel.cargarNivelPantallaInicio()
+	game.start()
+	
+}
